@@ -2,7 +2,27 @@
 
 ## Repobeskrivning
 
-Dessa tio uppgifter är på en grundläggande nivå för att bli godkänd på denna modul. Dessa avhandlar begreppen....
+Dessa tio uppgifter är på en grundläggande nivå för att bli godkänd på denna modul. Dessa avhandlar följande begrepp.
+
+Variabeltyper
+
+- String (str)
+- Integer (int)
+- Float (float)
+
+Det finns andra variabeltyper som vi kommer avhandla senare. Dessa är:
+- List
+- Dictionary
+- Boolean (bool)
+
+Matematiska operationer
+- Addition (+)
+- Subtraktion (-)
+- Multiplikation (*)
+- Division (/)
+- Floor Division (//)
+- Modulo (%)
+- (Upphöjt (**))
 
 Se till att ändra i kommentarerna så de innehåller korrekt information om dig, dvs datumet du påbörjade uppgiften, vem du är och din klass.
 
